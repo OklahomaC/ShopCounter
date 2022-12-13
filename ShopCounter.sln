@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShopCounter", "ShopCounter\ShopCounter.csproj", "{D218EC61-353E-4D28-8747-C51AD54D578B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D218EC61-353E-4D28-8747-C51AD54D578B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D218EC61-353E-4D28-8747-C51AD54D578B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D218EC61-353E-4D28-8747-C51AD54D578B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D218EC61-353E-4D28-8747-C51AD54D578B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

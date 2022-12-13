@@ -1,0 +1,6 @@
+/Users/bondarenkooleksandr/C#Projects/ShopCounter/ShopCounter/bin/Debug/ShopCounter.exe
+/Users/bondarenkooleksandr/C#Projects/ShopCounter/ShopCounter/bin/Debug/ShopCounter.pdb
+/Users/bondarenkooleksandr/C#Projects/ShopCounter/ShopCounter/obj/Debug/ShopCounter.csproj.AssemblyReference.cache
+/Users/bondarenkooleksandr/C#Projects/ShopCounter/ShopCounter/obj/Debug/ShopCounter.csproj.CoreCompileInputs.cache
+/Users/bondarenkooleksandr/C#Projects/ShopCounter/ShopCounter/obj/Debug/ShopCounter.exe
+/Users/bondarenkooleksandr/C#Projects/ShopCounter/ShopCounter/obj/Debug/ShopCounter.pdb
